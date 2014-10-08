@@ -18,9 +18,8 @@ noita:
   name: Computational Systems Biology/Integrative Genomics
   description: INMEGEN
   author:
-    name: Anatol Broder
-
-    url: http://penibelst.de/
+    name: CSB-IG/Hernandez-Lemus group
+    url: http://csb-ig.github.io/
   lang: en
   favicons:
     - /images/logo.png
